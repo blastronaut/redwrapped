@@ -1,5 +1,5 @@
 ﻿const OAUTH_BASE = "https://oauth.reddit.com";
-const REDDIT_AGENT = "web:redditwrapped:0.1.0 (by /u/redditwrapped_dev)";
+const REDDIT_AGENT = "web:redwrapped:0.1.0 (by /u/redwrapped_dev)";
 
 function getAccessToken() {
   return import.meta.env.VITE_REDDIT_TOKEN;

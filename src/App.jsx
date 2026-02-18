@@ -71,7 +71,7 @@ function App() {
       <header className="topbar">
         <div className="brand">
           <span className="dot" />
-          <h1>redditwrapped</h1>
+          <h1>RedWrapped</h1>
           <span className="build">react alpha</span>
         </div>
         <button className="ghost-btn">Connect Reddit OAuth (WIP)</button>
@@ -82,7 +82,7 @@ function App() {
           <p className="eyebrow">Track your reddit identity over time</p>
           <h2>Like Last.fm, but for your subreddits, moods, and phases.</h2>
           <p>
-            RedditWrapped maps your interest graph month-to-month. You can edit old phases, hide outdated behavior,
+            RedWrapped maps your interest graph month-to-month. You can edit old phases, hide outdated behavior,
             and keep your profile aligned with who you are now.
           </p>
           <div className="hero-actions">
@@ -205,7 +205,7 @@ function App() {
       </main>
 
       <footer>
-        <small>redditwrapped // react prototype // oauth + persistence in progress</small>
+        <small>RedWrapped // react prototype // oauth + persistence in progress</small>
       </footer>
     </>
   );
